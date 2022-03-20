@@ -32,7 +32,7 @@ python -m ipykernel install --user --name=tfodj
 
 <b> 5. </b> Train modell and start Detection by Training and Detection.ipynb
 
-<b> 6. </b> open Tensorboard with the following command
+<b> 6. </b> open Tensorboard with the following command(cmd go to the evel file dir)
 <pre>
 tensorboard --logdir=.
 </pre>
