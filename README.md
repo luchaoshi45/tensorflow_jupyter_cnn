@@ -31,3 +31,8 @@ python -m ipykernel install --user --name=tfodj
 <b> 4. </b> Manually divide collected images by Image Collection.ipynb
 
 <b> 5. </b> Train modell and start Detection by Training and Detection.ipynb
+
+<b> 6. </b> open Tensorboard with the following command
+<pre>
+tensorboard --logdir=.
+</pre>
