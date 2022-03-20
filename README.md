@@ -1,5 +1,8 @@
 # Tensorflow_Jupyter_CNN
-This is an objection detection project,using tensorflow and jupyter notebook.You can  train the model on your own computer（gpu or cpu）.You can also train on server (gpu or tpu) ,like google colab.</p>
+This is an objection detection project,using tensorflow and jupyter notebook.You can  train the model on your own computer（gpu or cpu）.You can also train on server (gpu or tpu) ,like google colab.
+</br>
+<a href="https://github.com/nicknochnack/TFODCourse"> original link </a>
+
 <img src="https://i.imgur.com/WK2hjbN.png">
 
 ## 1.Tool 
