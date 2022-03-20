@@ -31,9 +31,9 @@ python -m pip install --upgrade pip
 pip install ipykernel
 python -m ipykernel install --user --name=tfodj
 </pre>
-<b> 4. </b> Manually divide collected images by Image Collection.ipynb
+<b> 4. </b> Manually divide collected images by <em> Image Collection.ipynb </em>
 
-<b> 5. </b> Train modell and start Detection by Training and Detection.ipynb
+<b> 5. </b> Train modell and start Detection by <em> Training and Detection.ipynb </em>
 
 <b> 6. </b> open Tensorboard with the following command(cmd go to the evel file dir)
 <pre>
