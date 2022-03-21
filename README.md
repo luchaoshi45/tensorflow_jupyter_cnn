@@ -30,6 +30,7 @@ source tfod/bin/activate # Linux
 python -m pip install --upgrade pip
 pip install ipykernel
 python -m ipykernel install --user --name=tfodj
+jupyter notebook
 </pre>
 <b> 4. </b> Manually divide collected images by <em> Image Collection.ipynb </em>
 
